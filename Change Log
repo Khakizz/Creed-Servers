@@ -1,0 +1,59 @@
+SERVER:
+
+Migrated to New Hardware (Ryzen 9 5900x) (128GB RAM) (2 SSD's)
+  
+Fixed server issues after Merge, not displaying on listings
+
+Removed 50x due to lack of pop and functionality
+
+Replacing 50x with a Zombie Survival Based PVP Server
+
+Realigned all permissions and plugins with the 100x and 1000x
+
+PLUGINS:
+
+HELI SIGNALS - Fixed issues with players stealing loot and stealing and destroying heli/loot
+
+RAID BASES - Fixed known issues with stealing other players (Purchased) bases and loot
+
+RAID BASES - Fixed spawning cycle to reduce spikes
+
+CONVOY - Fixed the size and color of Bubble on Map, Reduced a bit for spikes
+
+ABANDONED BASES - Fixed known issues with Hogging and Claiming
+
+LOOT PROTECTION - Fixed known issue with Looting Backdoor
+
+ENTITY LIMITS - Raised limits to (1500 Building) (5000 Global Limit)
+
+MISC. / JUNK - Removed now over 20 useless plugins to conserve power and CPU
+
+NEW ADDITIONS:
+
+Added ability to purchase and fly Chinook again from (/vehiclebuy) menu!
+
+Added ability to purchase Bear from (/vehiclebuy) menu! (GAG JOKE, ITS FUNNY)
+
+Removed "Vote Kick Plugin" from all servers
+
+Lowered "Supply Drop Cooldown" to 30 seconds each throw!
+
+Added alot more (/home) and Teleports!
+
+Added "Auto Locking Doors" Type /al in chat to turn ON/OFF
+
+Added "Instant Supply Drops" just throw and recieve your Drop!!
+
+Added "No Respawn Cooldown" for QOL and avoiding that annoying bag timer
+
+Added "Powerless Sprinklers" another QOL Plugin for our Water Players
+
+Added "Certain Powerless Electrics" CCTV, BOOMBOX and a few other electrics require no wiring now
+
+Added "Night Vision" a little sun above the backpack that allows you to permanently see Daylight! (TYPE /NV TO CHANGE DAY)
+
+Permanent Time Cycle now, for out Custom Maps with cool night features and players that rather have night time!
+
+Redid every KIT in Creed, added alot of new features and special items you will only find here at CREED!
+
+Redid entire Welcome Panel, QOL everything you see on Panel is UP TO DATE!
